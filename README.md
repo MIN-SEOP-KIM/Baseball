@@ -1,13 +1,13 @@
  # :baseball: 야구게임
 
-## :baseball:규칙
+## :baseball: 규칙
 ![image](https://user-images.githubusercontent.com/93521131/173282617-03dcd89a-29a3-4d18-913a-1e8c4096441f.png)
 
 (출처 : https://namu.wiki/w/%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC)
 
  이 규칙에 맞게 코드를 작성하였다.
 
- ## :baseball:코드
+ ## :baseball: 코드
 
  ![image](https://user-images.githubusercontent.com/93521131/173283191-e1547bd7-08fb-4821-bd67-6f8c004d46cd.png)
 
@@ -31,7 +31,7 @@ if를 통해 strike와 ball를 구분해주고, while문의 조건이 맞기 전
 
 if문안에서 playGame() 메소드에서 x,y,z의 리턴값을 가져와 result에 저장하고 , 그 result 값과 조건문 안의 값과 비교한 후 결과를 출력한다.
 
-## :baseball:실행화면
+## :baseball: 실행화면
 ![image](https://user-images.githubusercontent.com/93521131/173287098-330cb8c7-2ba3-4855-9f23-37244ceea176.png)
 
 이런식으로 실행되며,
